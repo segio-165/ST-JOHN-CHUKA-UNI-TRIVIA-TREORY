@@ -1,0 +1,6 @@
+{
+  "name": "First Aid 11th Edition Assessment",
+  "description": "Comprehensive 80-question First Aid 11th Edition assessment with candidate login, 35-minute countdown timer, question navigator, and detailed review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
